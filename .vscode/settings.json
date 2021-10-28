@@ -1,0 +1,8 @@
+{
+  "editor.defaultFormatter": "johnsoncodehk.volar", // Enables Volar formatter (recommended).
+  "volar.takeOverMode.enabled": true, // Enables Volar Take Over mode, make sure native TypeScript support is disabled!
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "editor.linkedEditing": true,
+  "html.autoClosingTags": true,
+}
