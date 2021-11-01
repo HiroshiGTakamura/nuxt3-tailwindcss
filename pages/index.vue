@@ -19,10 +19,21 @@
       </div>
     </div>
     <div class="px-12 md:px-72 flex justify-center">
-      <div class="drop-shadow-md border-l-2 border-b-2 border-r-2 border-gray-300 h-full mx-4">
-        <div class="flex gap-5 py-12 px-5 ">
+      <div class="drop-shadow-md border-l-2 border-b-2 border-r-2 border-gray-300 h-full mx-4 flex-row py-12 px-5">
+        <div class="flex gap-5">
           <h1 class="text-justify">
             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eveniet excepturi dolores animi aspernatur aperiam quas numquam, assumenda iste voluptatem omnis explicabo voluptates error quidem ipsam fugit nesciunt ab pariatur, illum molestiae nisi voluptatibus recusandae? Eius, laboriosam odio ut est cumque, quisquam natus expedita ullam dolor sint vitae illum, dolore nulla id similique alias quaerat illo ea dicta labore aperiam! Nostrum modi voluptate consequuntur ipsam voluptates odit dicta et dolorem ullam eius quaerat quod sed, accusamus necessitatibus praesentium quo aspernatur delectus non quisquam alias! Voluptatem optio sint atque, tempora officia incidunt et ipsam. Odio unde quaerat dolorem, eius magnam vero reiciendis?
+          </h1>
+          <fieldset class="border-2 border-gray-600 rounded-lg p-2">
+            <legend class="text-xl px-2">Lorem ipsum</legend>
+            <h1 class="text-justify">
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas quos provident nam quae animi odit mollitia accusamus vel eos optio, commodi temporibus perferendis velit totam hic possimus itaque repellat sequi veritatis soluta voluptatem nisi facilis. Repellendus, hic totam doloremque atque magni perferendis facere quia ipsum sunt fugiat, voluptatibus velit consectetur.
+            </h1>
+          </fieldset>
+        </div>
+        <div class="">
+          <h1 class="text-justify">
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Adipisci provident quibusdam, voluptates natus sed enim quo fugiat? Fugiat itaque distinctio delectus earum aperiam voluptatem magni.
           </h1>
         </div>
       </div>
