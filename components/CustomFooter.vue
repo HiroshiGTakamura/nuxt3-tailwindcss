@@ -13,7 +13,7 @@
       </div>
     </div>
     <div class="px-6 py-2 flex items-center justify-center bg-blue-500 border-gray-300 border-b drop-shadow-md z-10">
-      <h1 class="text-2xl font-semibold">
+      <h1 class="text-lg md:text-2xl font-semibold">
         Oficina Online • Pedro Hiroshi 2021
       </h1>
     </div>
