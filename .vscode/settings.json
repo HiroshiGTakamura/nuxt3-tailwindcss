@@ -9,7 +9,7 @@
   "volar.codeLens.references": false,
   "volar.completion.autoImportComponent": false, // We don't need to import components due to Nuxt auto-import system.
   /* ## Recommended editor settings */
-  "editor.formatOnSave": true,
+  "editor.formatOnSave": false,
   "editor.tabSize": 2,
   "editor.linkedEditing": true,
   "html.autoClosingTags": true,
