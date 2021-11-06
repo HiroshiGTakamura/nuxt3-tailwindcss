@@ -19,10 +19,10 @@ const drop = ref(false);
 			<MenuIcon />
 		</button>
 		<div class="absolute flex flex-col p-4 bg-white border border-gray-300 rounded-md right-10 top-10 drop-shadow-md" v-if="drop">
-			<NuxtLink class="drop-item" to="/sobrenos">Sobre Nós</NuxtLink>
-			<NuxtLink class="drop-item" to="/servicos">Serviços</NuxtLink>
-			<NuxtLink class="drop-item" to="/produtos">Produtos</NuxtLink>
-			<NuxtLink class="drop-item" to="/contato">Contato</NuxtLink>
+			<NuxtLink @click="drop = !drop" class="drop-item" to="/sobrenos">Sobre Nós</NuxtLink>
+			<NuxtLink @click="drop = !drop" class="drop-item" to="/servicos">Serviços</NuxtLink>
+			<NuxtLink @click="drop = !drop" class="drop-item" to="/produtos">Produtos</NuxtLink>
+			<NuxtLink @click="drop = !drop" class="drop-item" to="/contato">Contato</NuxtLink>
 		</div>
 	</div>
 </template>

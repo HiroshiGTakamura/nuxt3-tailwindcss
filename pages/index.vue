@@ -23,7 +23,7 @@
 					<br />
 					Lorem ipsum, dolor sit amet consectetur adipisicing elit. Adipisci provident quibusdam, voluptates natus sed enim quo fugiat? Fugiat itaque distinctio delectus earum aperiam voluptatem magni.
 				</p>
-				<div>
+				<div class="mt-5 md:mt-0">
 					<div class="relative h-auto p-4 border-2 border-gray-600 rounded-lg">
 						<legend class="absolute px-2 text-xl font-semibold bg-white border-2 border-gray-600 rounded-lg -top-4 left-4">Lorem ipsum</legend>
 						<p class="text-justify">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas quos provident nam quae animi odit mollitia accusamus vel eos optio, commodi temporibus perferendis velit totam hic possimus itaque repellat sequi veritatis soluta voluptatem nisi facilis. Repellendus, hic totam doloremque atque magni perferendis facere quia ipsum sunt fugiat, voluptatibus velit consectetur.</p>
