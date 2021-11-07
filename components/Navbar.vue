@@ -3,7 +3,7 @@ const drop = ref(false);
 </script>
 <template>
 	<div class="fixed z-10 flex items-center justify-between w-full h-16 px-6 py-3 bg-white border-b border-gray-300 drop-shadow-md">
-		<NuxtLink to="/" class="flex h-8 px-1 text-xl font-bold bg-gray-100 border-2 border-black rounded-full">
+		<NuxtLink @click="drop = !drop" to="/" class="flex h-8 px-1 text-xl font-bold bg-gray-100 border-2 border-black rounded-full">
 			<img class="h-5 m-1" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg0o3fnDRmdhBz2uUkBtj3r-96ICq4bj1Ftw&usqp=CAU" />
 			<h1 class="text-xl">Oficina Online</h1>
 			<img class="h-5 m-1" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg0o3fnDRmdhBz2uUkBtj3r-96ICq4bj1Ftw&usqp=CAU" />

@@ -67,4 +67,5 @@ const produto = [
 			</div>
 		</div>
 	</div>
+	<CustomFooter />
 </template>
