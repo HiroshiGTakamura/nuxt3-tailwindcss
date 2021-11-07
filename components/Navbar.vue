@@ -25,6 +25,7 @@ const drop = ref(false);
 			<NuxtLink @click="drop = !drop" class="drop-item" to="/contato">Contato</NuxtLink>
 		</div>
 	</div>
+	<div class="pt-16"></div>
 </template>
 <style scoped>
 .drop-item {

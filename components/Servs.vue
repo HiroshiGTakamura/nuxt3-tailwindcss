@@ -1,19 +1,16 @@
 <script setup>
-const props = servs({
+const props = defineProps({
 	src: String,
 	title: String,
 	subtitle: String,
 });
 </script>
 <template>
-	<div class="flex w-10 h-16 p-5 border border-gray-400 drop-shadow-md round-sm">
-		<img class="object-cover object-center w-8 h-12 round-sm" :src="props.src" />
-		<h1 class="font-semibold">
-			{{ props.title }}
-		</h1>
-		<h2 class="text-gray-600">
-			{{ props.subtitle }}
-		</h2>
+	<div class="flex flex-col items-center justify-center p-10">
+		<div class="flex flex-col items-center w-64 p-3 border border-gray-300 rounded-sm">
+			<GridImage class="h-52 w-52" :src="props.src" />
+			<h1 class="text-xl font-bold">{{ props.title }}</h1>
+			<h2 class="text-justify text-gray-600">{{ props.subtitle }}</h2>
+		</div>
 	</div>
-	<CustomFooter />
 </template>

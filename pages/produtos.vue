@@ -2,7 +2,7 @@
 const api = await $fetch("https://api.chucknorris.io/jokes/random");
 </script>
 <template>
-	<div class="pt-16">
+	<div>
 		<h1>
 			{{ api.value }}
 		</h1>

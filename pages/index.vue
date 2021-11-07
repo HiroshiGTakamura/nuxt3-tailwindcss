@@ -1,5 +1,5 @@
 <template>
-	<div class="pt-16">
+	<div>
 		<div id="background" class="w-full h-96">
 			<div class="flex flex-col items-center justify-center w-full h-full p-10 space-y-4 backdrop-filter backdrop-blur-sm md:flex-row md:space-x-8 md:space-y-0">
 				<div class="grid h-48 grid-cols-3 grid-rows-2 gap-2 w-72">
@@ -18,7 +18,6 @@
 				<p class="pr-8 text-justify">
 					Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eveniet excepturi dolores animi aspernatur aperiam quas numquam, assumenda iste voluptatem omnis explicabo voluptates error quidem ipsam fugit nesciunt ab pariatur, illum molestiae nisi voluptatibus recusandae? Eius, laboriosam odio ut est cumque, quisquam natus expedita ullam dolor sint vitae illum, dolore nulla id similique alias quaerat illo ea dicta labore aperiam! Nostrum modi voluptate consequuntur ipsam voluptates odit
 					dicta et dolorem ullam eius quaerat quod sed, accusamus necessitatibus praesentium quo aspernatur delectus non quisquam alias! Voluptatem optio sint atque, tempora officia incidunt et ipsam. Odio unde quaerat dolorem, eius magnam vero reiciendis?
-					<br />
 					<br />
 					<br />
 					Lorem ipsum, dolor sit amet consectetur adipisicing elit. Adipisci provident quibusdam, voluptates natus sed enim quo fugiat? Fugiat itaque distinctio delectus earum aperiam voluptatem magni.
