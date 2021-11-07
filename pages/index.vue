@@ -30,7 +30,6 @@
 				</div>
 			</div>
 		</div>
-		<CustomFooter />
 	</div>
 </template>
 <style scoped>

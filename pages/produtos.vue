@@ -51,7 +51,7 @@ const produto = [
 ];
 </script>
 <template>
-	<div class="flex flex-col items-center justify-center">
+	<div class="flex flex-col items-center justify-start">
 		<div>
 			<h1 class="text-4xl font-bold">Produtos</h1>
 			<h2 class="text-lg text-gray-500">Conheça um pouco mais dos nossos produtos.</h2>
@@ -60,12 +60,11 @@ const produto = [
 			<div v-for="item in produto" :key="item.nome">
 				<div class="p-3 border rounded-md drop-shadow-lg">
 					<img class="rounded-md w-52" :src="item.imagem" />
-					<h1 class="text-base font-semibold md:text-lg">{{ item.nome }}</h1>
-					<h2 class="text-sm font-semibold text-gray-500">{{ item.categoria }}</h2>
+					<h1 class="text-base font-bold md:text-lg">{{ item.nome }}</h1>
+					<h2 class="mb-3 text-sm text-gray-400">{{ item.categoria }}</h2>
 					<h1 class="text-xl font-bold">R${{ item.preco }}</h1>
 				</div>
 			</div>
 		</div>
 	</div>
-	<CustomFooter />
 </template>

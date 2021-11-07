@@ -1,7 +1,10 @@
 <template>
 	<div>
 		<Navbar />
-		<NuxtPage />
+		<div class="min-h-screen">
+			<NuxtPage />
+		</div>
+		<CustomFooter />
 	</div>
 </template>
 
