@@ -55,6 +55,7 @@ const produto = [
 		<div>
 			<h1 class="text-4xl font-bold">Produtos</h1>
 			<h2 class="text-lg text-gray-500">Conheça um pouco mais dos nossos produtos.</h2>
+			<h2 class="text-sm text-gray-500">*os produtos podem apenas ser comprados presencialmente na nossa oficina.</h2>
 		</div>
 		<div class="grid grid-cols-3 grid-rows-2 gap-4 p-3">
 			<div v-for="item in produto" :key="item.nome">

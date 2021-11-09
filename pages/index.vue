@@ -16,16 +16,25 @@
 		<div class="flex justify-center px-0 md:px-32 lg:px-72">
 			<div class="flex flex-col h-full p-8 mx-4 border-l-2 border-r-2 border-gray-300 drop-shadow-md md:flex-row">
 				<p class="pr-8 text-justify">
-					Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eveniet excepturi dolores animi aspernatur aperiam quas numquam, assumenda iste voluptatem omnis explicabo voluptates error quidem ipsam fugit nesciunt ab pariatur, illum molestiae nisi voluptatibus recusandae? Eius, laboriosam odio ut est cumque, quisquam natus expedita ullam dolor sint vitae illum, dolore nulla id similique alias quaerat illo ea dicta labore aperiam! Nostrum modi voluptate consequuntur ipsam voluptates odit
-					dicta et dolorem ullam eius quaerat quod sed, accusamus necessitatibus praesentium quo aspernatur delectus non quisquam alias! Voluptatem optio sint atque, tempora officia incidunt et ipsam. Odio unde quaerat dolorem, eius magnam vero reiciendis?
+					&nbsp;&nbsp;&nbsp;Abastecida com máquinas e equipamentos, profissionais qualificados e sede própria, colocamos à sua disposição um bom atendimento e serviço que garante o bom funcionamento e qualidade nos produtos usados para a manutenção do seu veículo.
 					<br />
 					<br />
-					Lorem ipsum, dolor sit amet consectetur adipisicing elit. Adipisci provident quibusdam, voluptates natus sed enim quo fugiat? Fugiat itaque distinctio delectus earum aperiam voluptatem magni.
+					&nbsp;&nbsp;&nbsp;Temos como política de qualidade a busca continua pela melhoria da Fabricação, Prestação de Serviço e atendimento com os nossos clientes, visando o comprometimento no desempenho de suas funções e a satisfação total aos parceiros e clientes.
 				</p>
 				<div class="mt-5 md:mt-0">
 					<div class="relative h-auto p-4 border-2 border-gray-600 rounded-lg">
-						<legend class="absolute px-2 text-xl font-semibold bg-white border-2 border-gray-600 rounded-lg -top-4 left-4">Lorem ipsum</legend>
-						<p class="text-justify">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas quos provident nam quae animi odit mollitia accusamus vel eos optio, commodi temporibus perferendis velit totam hic possimus itaque repellat sequi veritatis soluta voluptatem nisi facilis. Repellendus, hic totam doloremque atque magni perferendis facere quia ipsum sunt fugiat, voluptatibus velit consectetur.</p>
+						<legend class="absolute px-2 text-xl font-semibold bg-white border-2 border-gray-600 rounded-lg -top-4 left-4">Nossos Valores</legend>
+						<p class="w-60">
+							São nossos valores os seguintes pontos: <br />
+							• Agilidade;<br />
+							• Comportamento Ético;<br />
+							• Compromentimento;<br />
+							• Espírito de Equipe;<br />
+							• Qualidade dos Produtos e Serviços;<br />
+							• Confiabilidade;<br />
+							• Respeito;<br />
+							• Responsabilidade Social;<br />
+						</p>
 					</div>
 				</div>
 			</div>
@@ -37,3 +46,4 @@
 	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://images.unsplash.com/photo-1517524206127-48bbd363f3d7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1074&q=5");
 }
 </style>
+<!--Tales from the AwesomeDM - Cool Ross!-->
